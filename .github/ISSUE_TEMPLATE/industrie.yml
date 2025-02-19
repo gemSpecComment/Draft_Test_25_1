@@ -1,6 +1,6 @@
 name: Industriekommentare
 description: "Kommentare für Änderungsvoschläge der Industrie"
-title: "[Änderungsvorschlag]: "
+title: "[C_12020_Anlage_V1.0.0]: "
 labels: ["Offen"]
 projects: ["gematik-poc/1"]
 assignees: ["mwatzek"]
@@ -31,6 +31,7 @@ body:
   - type: input
     id: document
     attributes:
+      value: "C_12020_Anlage_V1.0.0"
       label: "Dokument"
       description: "Name des Dokuments (erforderlich)"
     validations:
@@ -52,6 +53,7 @@ body:
   - type: input
     id: link
     attributes:
+      value: "https://gemspec.gematik.de/prereleases/Draft_Test_25_1/C_12020_Anlage_V1.0.0/"
       label: "Link"
       description: "Link zu Dokument/Kapitel/AFO"
     validations:
