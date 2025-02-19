@@ -55,7 +55,7 @@ body:
     attributes:
       value: "https://gemspec.gematik.de/prereleases/Draft_Test_25_1/C_12020_Anlage_V1.0.0/"
       label: "Link"
-      description: "Link zu Dokument/Kapitel/AFO"
+      description: "Link zum Dokument"
     validations:
       required: false
   - type: input
