@@ -28,21 +28,6 @@ body:
       default: 0
     validations:
       required: true
-  - type: dropdown
-    id: topic
-    attributes:
-      label: Thema
-      description: Wählen Sie das Thema Ihres Änderungsvorschlags aus 
-      options:
-        - Alles auswählen
-        - ePA
-        - E-Rezept
-        - HCC
-        - KIM
-        - TI-Messenger
-      default: 0
-    validations:
-      required: false
   - type: input
     id: document
     attributes:
