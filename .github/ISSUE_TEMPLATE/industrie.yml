@@ -1,6 +1,6 @@
 name: Industriekommentare
 description: "Kommentare für Änderungsvoschläge der Industrie"
-title: "[C_12020_Anlage_V1.0.0]: "
+title: "C_12020_Anlage_V1.0.0 "
 labels: ["Offen"]
 projects: ["gematik-poc/1"]
 assignees: ["mwatzek"]
